@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Not2dim&#39;s Blogs</title>
+    <link>https://not2dim.github.io/posts/</link>
+    <description>Recent content in Posts on Not2dim&#39;s Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Apr 2022 22:42:04 +0800</lastBuildDate><atom:link href="https://not2dim.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://not2dim.github.io/posts/hello-world/</link>
+      <pubDate>Thu, 28 Apr 2022 22:42:04 +0800</pubDate>
+      
+      <guid>https://not2dim.github.io/posts/hello-world/</guid>
+      <description>HelloWorld HelloWorld HelloWorld HelloWorld HelloWorld HelloWorld HelloWorld</description>
+    </item>
+    
+  </channel>
+</rss>
